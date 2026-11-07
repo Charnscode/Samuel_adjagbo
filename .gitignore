@@ -1,0 +1,7 @@
+node_modules/
+dist/
+_suivi/
+_scans/
+.env
+.env.local
+*.log

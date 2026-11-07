@@ -1,0 +1,3 @@
+Sources des images du projet (versionnees avec Git, non livrees dans le build).
+Les images utilisees par l application sont dans public\images (versions redimensionnees).
+Ne pas supprimer ce dossier. Le dossier _suivi\ est temporaire et exclu de Git.
